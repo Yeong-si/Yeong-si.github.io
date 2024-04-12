@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yeong-si/Yeong-si.github.io/static/css/main.73f3245f.css",
+    "main.js": "/Yeong-si/Yeong-si.github.io/static/js/main.dc92126d.js",
+    "static/js/453.401a50c1.chunk.js": "/Yeong-si/Yeong-si.github.io/static/js/453.401a50c1.chunk.js",
+    "static/media/logo.svg": "/Yeong-si/Yeong-si.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yeong-si/Yeong-si.github.io/index.html",
+    "main.73f3245f.css.map": "/Yeong-si/Yeong-si.github.io/static/css/main.73f3245f.css.map",
+    "main.dc92126d.js.map": "/Yeong-si/Yeong-si.github.io/static/js/main.dc92126d.js.map",
+    "453.401a50c1.chunk.js.map": "/Yeong-si/Yeong-si.github.io/static/js/453.401a50c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f3245f.css",
+    "static/js/main.dc92126d.js"
+  ]
+}
