@@ -1,0 +1,26 @@
+.list {
+    width: 90%;
+}
+li {
+    width: 20vw;
+    cursor: pointer;
+    list-style: none;
+    padding: 0;
+    font-size: large;
+}
+ul {
+    min-height: 500cap;
+    min-height: 40%;
+}
+
+.list li {
+    background: #fff7e6; /* 노트 색상 */
+    border: 1px solid #f5d7bf; /* 노트 테두리 색상 */
+    margin-bottom: 10px; /* 아이템 간격 */
+    padding: 15px; /* 내부 여백 */
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
+    min-height: 50px; /* 최소 높이 */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }

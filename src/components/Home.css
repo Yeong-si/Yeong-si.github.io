@@ -1,0 +1,18 @@
+.app {
+    text-align: center;
+  }
+
+h1 {
+  font-size: 300%;
+}
+input {
+  font-size: large;
+  width: 50%;
+  height: 50px;
+}
+
+button {
+  margin-left:5px;
+  width: 45px;
+  height: 45px;
+}
